@@ -1,0 +1,19 @@
+{
+  "name": "zoleerjeprogrammeren",
+  "version": "0.0.1",
+  "description": "Gemakkelijk leren programmeren",
+  "main": "index.js",
+  "authors": {
+    "name": "Ronnie",
+    "email": "rwaebers@gmail.com"
+  },
+  "repository": "/zoleerjeprogrammeren",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  }
+}
