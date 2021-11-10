@@ -1,5 +1,3 @@
-
-
 # CSS Intro
 
 - CSS is de taal die we gebruiken om een HTML-document op te maken.
@@ -130,8 +128,6 @@ text-align: center;
 <!DOCTYPE html>
 <html>
   <head> </head>
-  <body>
-
-  </body>
+  <body></body>
 </html>
 ```
