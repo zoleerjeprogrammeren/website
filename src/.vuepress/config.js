@@ -55,7 +55,7 @@ module.exports = {
         {
           title: "HTML",
           collapsable: false,
-          children: ["", "test"],
+          children: [""],
         },
       ],
       "/css/": [
